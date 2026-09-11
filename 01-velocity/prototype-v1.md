@@ -6,17 +6,17 @@
 
 _Which of the four scenarios (or your own, instructor-approved) did you build?_
 
-_____
+Retention Engine
 
 ## Launch path
 
-- [ ] Copy & Customize (start from a scenario starter prompt)
+- [X ] Copy & Customize (start from a scenario starter prompt)
 - [ ] First Screen Method (build only the very first screen the user sees)
 
 ## The build
 
 - **What I built:** _____
-- **Tool used:** Lovable / v0 / Cursor / Bolt / Replit
+- **Tool used:** **Lovable** / v0 / Cursor / Bolt / Replit
 - **Shareable link:** _____
 
 ## Show & Swap read
